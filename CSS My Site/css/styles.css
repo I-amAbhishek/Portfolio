@@ -1,0 +1,143 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.profile{
+  padding-bottom: 35px;
+  padding-top: 25px;
+}
+h1 {
+  font-size: 3.500rem;
+  margin-top: 50px auto 0 auto;
+  color: #355764;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #5A8F7B;
+  font-size: 1.500rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-container {
+  background-color: #B2C8DF;
+  padding-top: 100px;
+  position: relative;
+}
+
+.middle-container {
+  background-color: white;
+}
+
+.bottomcloud {
+  position: absolute;
+  left: 300px;
+}
+
+.topcloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-container {
+  padding-top: 15px;
+  background-color:#B2C8DF ;
+  word-spacing: 10px;
+  padding-bottom: 10px;
+}
+
+.HTMLIMG {
+  width: 30%;
+
+  float: left;
+}
+
+.picabhishek {
+  height: 200px;
+  width: 200px;
+}
+
+.CSSIMG {
+  width: 30%;
+  float: right;
+}
+a{
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EF5B0C;
+}
+.footer-link {
+  color: #0F3D3E;
+}
+.btn1{
+  padding-top: 28px;
+  padding-bottom: 20px;
+}
+
+.btn{
+
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #1199E);
+  background-image: -moz-linear-gradient(top, #11CDD4, #1199E);
+  background-image: -ms-linear-gradient(top, #11CDD4, #1199E);
+  background-image: -o-linear-gradient(top, #11CDD4, #1199E);
+  background-image: linear-gradient(to bottom, #11CDD4, #1199E);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Montserrat;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30E3CB;
+  background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+  text-decoration: none;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 3%;
+  padding-bottom: 10px;
+}
+.bothskills{
+  padding-bottom: 2px;
+}
+.skill-row{
+  text-align: left;
+  width: 50%;
+  margin: 20px auto 120px auto;
+}
+.skills{
+  margin: 50px auto 50px auto;
+}
+.contact-me{
+  padding-bottom: 5px;
+  margin: 10px auto 10px auto;
+}
+.copyright{
+  font-size: 10px;
+  color: #377D71;
+
+}
